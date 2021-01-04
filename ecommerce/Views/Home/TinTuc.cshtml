@@ -1,0 +1,19 @@
+﻿@using ecommerce.Models
+@model Message
+@{
+    ViewBag.Title = "TinTuc";
+    Layout = "~/Views/Layout/ProductLayout.cshtml";
+}
+
+<div>
+    @using (Html.BeginForm("AddSubscribe", "MailChimp", FormMethod.Post))
+     {
+        <input type="text" id="subscribe" name="subscribe" />
+        <input type="submit" value="Subscribe " />
+        if (@Model != null)
+        {
+            <span>@Model.TextMessage</span>
+        }
+     }
+
+</div>

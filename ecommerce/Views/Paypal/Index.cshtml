@@ -1,0 +1,42 @@
+﻿@using System.Configuration
+@model List<ecommerce.Models.ItemGioHang>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link href="~/Content/bootstrap-theme.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <script src="~/Content/js/bootstrap.min.js"></script>
+</head>
+<body>
+    
+    <div>
+        <form action="@ConfigurationManager.AppSettings["urlSubmitPayment"]">
+            <input type="hidden" name="cmd" value="_cart" />
+            <input type="hidden" name="upload" value="1" />
+            <input type="hidden" name="return" value="@ConfigurationManager.AppSettings["urlReturn"]" />
+            <input type="hidden" name="business" value="@ConfigurationManager.AppSettings["accountBusiness"]" />
+            @for (int i = 0; i < Model.Count; i++)
+            {
+                var Monney = @Model[i].DonGia;
+                Monney = Monney / 24000;
+                <input type="hidden" name="@Url.Content("item_name_"+(i+1))" value="@Model[i].TenSP" />
+                <input type="hidden" name="@Url.Content("item_number_"+(i+1))" value="@Model[i].MaSP" />
+                <input type="hidden" name="@Url.Content("amount_"+(i+1))" value="@Monney.ToString("0")" />
+                <input type="hidden" name="@Url.Content("quantity_"+(i+1))" value="@Model[i].SoLuong" />
+            }
+            <br />
+            <div class="col-12">
+                <input type="submit" value="PayPal" class="btn btn-primary col-12" />
+            </div>
+
+        </form>
+    </div>
+</body>
+</html>

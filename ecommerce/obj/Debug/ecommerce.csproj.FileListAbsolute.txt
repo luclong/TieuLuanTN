@@ -1,0 +1,360 @@
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\ecommerce.dll.config
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\ecommerce.dll
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\ecommerce.pdb
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\WebGrease.dll
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\obj\Debug\ecommerce.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\obj\Debug\ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\obj\Debug\ecommerce.csproj.CopyComplete
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\obj\Debug\ecommerce.dll
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\obj\Debug\ecommerce.pdb
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\CaptchaMvc.dll
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\CaptchaMvc.pdb
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\CaptchaMvc.xml
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\PagedList.dll
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\PagedList.xml
+C:\Users\Admin\Desktop\ThuongMaiDienTu\ecommerce\ecommerce\bin\PagedList.Mvc.xml
+T:\BaiTap\ecommerce\ecommerce\obj\Debug\ecommerce.csprojAssemblyReference.cache
+T:\BaiTap\ecommerce\ecommerce\obj\Debug\ecommerce.csproj.CoreCompileInputs.cache
+T:\BaiTap\ecommerce\ecommerce\obj\Debug\ecommerce.dll
+T:\BaiTap\ecommerce\ecommerce\obj\Debug\ecommerce.pdb
+T:\BaiTap\ecommerce\ecommerce\bin\ecommerce.dll.config
+T:\BaiTap\ecommerce\ecommerce\bin\ecommerce.dll
+T:\BaiTap\ecommerce\ecommerce\bin\ecommerce.pdb
+T:\BaiTap\ecommerce\ecommerce\bin\roslyn\csc.exe
+T:\BaiTap\ecommerce\ecommerce\bin\roslyn\csc.exe.config
+T:\BaiTap\ecommerce\ecommerce\bin\roslyn\csc.rsp
+T:\BaiTap\ecommerce\ecommerce\bin\roslyn\csi.exe
+T:\BaiTap\ecommerce\ecommerce\bin\roslyn\csi.rsp
+T:\BaiTap\ecommerce\ecommerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+T:\BaiTap\ecommerce\ecommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+T:\BaiTap\ecommerce\ecommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+T:\BaiTap\ecommerce\ecommerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+T:\BaiTap\ecommerce\ecommerce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+T:\BaiTap\ecommerce\ecommerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+T:\BaiTap\ecommerce\ecommerce\bin\roslyn\Microsoft.CSharp.Core.targets
+T:\BaiTap\ecommerce\ecommerce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+T:\BaiTap\ecommerce\ecommerce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+T:\BaiTap\ecommerce\ecommerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+T:\BaiTap\ecommerce\ecommerce\bin\roslyn\System.AppContext.dll
+T:\BaiTap\ecommerce\ecommerce\bin\roslyn\System.Collections.Immutable.dll
+T:\BaiTap\ecommerce\ecommerce\bin\roslyn\System.Diagnostics.StackTrace.dll
+T:\BaiTap\ecommerce\ecommerce\bin\roslyn\System.IO.FileSystem.dll
+T:\BaiTap\ecommerce\ecommerce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+T:\BaiTap\ecommerce\ecommerce\bin\roslyn\System.Reflection.Metadata.dll
+T:\BaiTap\ecommerce\ecommerce\bin\roslyn\vbc.exe
+T:\BaiTap\ecommerce\ecommerce\bin\roslyn\vbc.exe.config
+T:\BaiTap\ecommerce\ecommerce\bin\roslyn\vbc.rsp
+T:\BaiTap\ecommerce\ecommerce\bin\roslyn\VBCSCompiler.exe
+T:\BaiTap\ecommerce\ecommerce\bin\roslyn\VBCSCompiler.exe.config
+T:\BaiTap\ecommerce\ecommerce\bin\Antlr3.Runtime.dll
+T:\BaiTap\ecommerce\ecommerce\bin\CaptchaMvc.dll
+T:\BaiTap\ecommerce\ecommerce\bin\EntityFramework.dll
+T:\BaiTap\ecommerce\ecommerce\bin\EntityFramework.SqlServer.dll
+T:\BaiTap\ecommerce\ecommerce\bin\JWT.dll
+T:\BaiTap\ecommerce\ecommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+T:\BaiTap\ecommerce\ecommerce\bin\Microsoft.Web.Infrastructure.dll
+T:\BaiTap\ecommerce\ecommerce\bin\Newtonsoft.Json.dll
+T:\BaiTap\ecommerce\ecommerce\bin\PagedList.dll
+T:\BaiTap\ecommerce\ecommerce\bin\PagedList.Mvc.dll
+T:\BaiTap\ecommerce\ecommerce\bin\System.Web.Helpers.dll
+T:\BaiTap\ecommerce\ecommerce\bin\System.Web.Mvc.dll
+T:\BaiTap\ecommerce\ecommerce\bin\System.Web.Optimization.dll
+T:\BaiTap\ecommerce\ecommerce\bin\System.Web.Razor.dll
+T:\BaiTap\ecommerce\ecommerce\bin\System.Web.WebPages.Deployment.dll
+T:\BaiTap\ecommerce\ecommerce\bin\System.Web.WebPages.dll
+T:\BaiTap\ecommerce\ecommerce\bin\System.Web.WebPages.Razor.dll
+T:\BaiTap\ecommerce\ecommerce\bin\Twilio.AspNet.Common.dll
+T:\BaiTap\ecommerce\ecommerce\bin\Twilio.dll
+T:\BaiTap\ecommerce\ecommerce\bin\WebGrease.dll
+T:\BaiTap\ecommerce\ecommerce\bin\CaptchaMvc.pdb
+T:\BaiTap\ecommerce\ecommerce\bin\CaptchaMvc.xml
+T:\BaiTap\ecommerce\ecommerce\bin\EntityFramework.xml
+T:\BaiTap\ecommerce\ecommerce\bin\EntityFramework.SqlServer.xml
+T:\BaiTap\ecommerce\ecommerce\bin\PagedList.xml
+T:\BaiTap\ecommerce\ecommerce\bin\PagedList.Mvc.xml
+T:\BaiTap\ecommerce\ecommerce\bin\System.Web.Helpers.xml
+T:\BaiTap\ecommerce\ecommerce\bin\System.Web.Mvc.xml
+T:\BaiTap\ecommerce\ecommerce\bin\System.Web.Optimization.xml
+T:\BaiTap\ecommerce\ecommerce\bin\System.Web.Razor.xml
+T:\BaiTap\ecommerce\ecommerce\bin\System.Web.WebPages.xml
+T:\BaiTap\ecommerce\ecommerce\bin\System.Web.WebPages.Deployment.xml
+T:\BaiTap\ecommerce\ecommerce\bin\System.Web.WebPages.Razor.xml
+T:\BaiTap\ecommerce\ecommerce\bin\Newtonsoft.Json.xml
+T:\BaiTap\ecommerce\ecommerce\bin\Twilio.xml
+T:\BaiTap\ecommerce\ecommerce\bin\Antlr3.Runtime.pdb
+T:\BaiTap\ecommerce\ecommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+T:\BaiTap\ecommerce\ecommerce\obj\Debug\ecommerce.csproj.CopyComplete
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\ecommerce.dll.config
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\ecommerce.dll
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\ecommerce.pdb
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\roslyn\csc.exe
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\roslyn\csc.exe.config
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\roslyn\csc.rsp
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\roslyn\csi.exe
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\roslyn\csi.rsp
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\roslyn\System.AppContext.dll
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\roslyn\System.Collections.Immutable.dll
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\roslyn\System.IO.FileSystem.dll
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\roslyn\System.Reflection.Metadata.dll
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\roslyn\vbc.exe
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\roslyn\vbc.exe.config
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\roslyn\vbc.rsp
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\roslyn\VBCSCompiler.exe
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\roslyn\VBCSCompiler.exe.config
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\Antlr3.Runtime.dll
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\CaptchaMvc.dll
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\EntityFramework.dll
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\EntityFramework.SqlServer.dll
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\JWT.dll
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\Microsoft.Web.Infrastructure.dll
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\Newtonsoft.Json.dll
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\PagedList.dll
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\PagedList.Mvc.dll
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\System.Web.Helpers.dll
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\System.Web.Mvc.dll
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\System.Web.Optimization.dll
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\System.Web.Razor.dll
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\System.Web.WebPages.Deployment.dll
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\System.Web.WebPages.dll
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\System.Web.WebPages.Razor.dll
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\Twilio.AspNet.Common.dll
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\Twilio.dll
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\WebGrease.dll
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\CaptchaMvc.pdb
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\CaptchaMvc.xml
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\EntityFramework.xml
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\EntityFramework.SqlServer.xml
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\PagedList.xml
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\PagedList.Mvc.xml
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\System.Web.Helpers.xml
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\System.Web.Mvc.xml
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\System.Web.Optimization.xml
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\System.Web.Razor.xml
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\System.Web.WebPages.xml
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\System.Web.WebPages.Deployment.xml
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\System.Web.WebPages.Razor.xml
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\Newtonsoft.Json.xml
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\Twilio.xml
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\Antlr3.Runtime.pdb
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BaiTap\ASP\ecommerce\ecommerce\obj\Debug\ecommerce.csprojAssemblyReference.cache
+D:\BaiTap\ASP\ecommerce\ecommerce\obj\Debug\ecommerce.csproj.CoreCompileInputs.cache
+D:\BaiTap\ASP\ecommerce\ecommerce\obj\Debug\ecommerce.csproj.CopyComplete
+D:\BaiTap\ASP\ecommerce\ecommerce\obj\Debug\ecommerce.dll
+D:\BaiTap\ASP\ecommerce\ecommerce\obj\Debug\ecommerce.pdb
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\MailChimp.dll
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\ServiceStack.Text.dll
+D:\BaiTap\ASP\ecommerce\ecommerce\bin\ServiceStack.Text.xml
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\ecommerce.dll.config
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\ecommerce.dll
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\ecommerce.pdb
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\CaptchaMvc.dll
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\JWT.dll
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\MailChimp.dll
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\PagedList.dll
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\ServiceStack.Text.dll
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\Twilio.AspNet.Common.dll
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\Twilio.dll
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\WebGrease.dll
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\CaptchaMvc.pdb
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\CaptchaMvc.xml
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\PagedList.xml
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\ServiceStack.Text.xml
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\Twilio.xml
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\obj\Debug\ecommerce.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\obj\Debug\ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\obj\Debug\ecommerce.csproj.CopyComplete
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\obj\Debug\ecommerce.dll
+C:\Users\Admin\Desktop\ecommerce - Copy\ecommerce\obj\Debug\ecommerce.pdb
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\ecommerce.dll.config
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\ecommerce.dll
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\ecommerce.pdb
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\roslyn\csc.exe
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\roslyn\csc.exe.config
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\roslyn\csc.rsp
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\roslyn\csi.exe
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\roslyn\csi.rsp
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\roslyn\System.AppContext.dll
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\roslyn\System.Collections.Immutable.dll
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\roslyn\System.IO.FileSystem.dll
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\roslyn\System.Reflection.Metadata.dll
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\roslyn\vbc.exe
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\roslyn\vbc.exe.config
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\roslyn\vbc.rsp
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\roslyn\VBCSCompiler.exe
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\roslyn\VBCSCompiler.exe.config
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\Antlr3.Runtime.dll
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\CaptchaMvc.dll
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\EntityFramework.dll
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\EntityFramework.SqlServer.dll
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\JWT.dll
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\MailChimp.dll
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\Microsoft.Web.Infrastructure.dll
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\Newtonsoft.Json.dll
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\PagedList.dll
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\PagedList.Mvc.dll
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\ServiceStack.Text.dll
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\System.Web.Helpers.dll
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\System.Web.Mvc.dll
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\System.Web.Optimization.dll
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\System.Web.Razor.dll
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\System.Web.WebPages.Deployment.dll
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\System.Web.WebPages.dll
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\System.Web.WebPages.Razor.dll
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\Twilio.AspNet.Common.dll
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\Twilio.dll
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\WebGrease.dll
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\CaptchaMvc.pdb
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\CaptchaMvc.xml
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\EntityFramework.xml
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\EntityFramework.SqlServer.xml
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\PagedList.xml
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\PagedList.Mvc.xml
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\ServiceStack.Text.xml
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\System.Web.Helpers.xml
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\System.Web.Mvc.xml
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\System.Web.Optimization.xml
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\System.Web.Razor.xml
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\System.Web.WebPages.xml
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\System.Web.WebPages.Deployment.xml
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\System.Web.WebPages.Razor.xml
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\Newtonsoft.Json.xml
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\Twilio.xml
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\Antlr3.Runtime.pdb
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\obj\Debug\ecommerce.csprojAssemblyReference.cache
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\obj\Debug\ecommerce.csproj.CoreCompileInputs.cache
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\obj\Debug\ecommerce.csproj.CopyComplete
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\obj\Debug\ecommerce.dll
+D:\BaiTap\ASP\ThuongMaiDienTu\P-1\Cuoi-Ky\ecommerce\ecommerce\obj\Debug\ecommerce.pdb

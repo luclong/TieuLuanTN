@@ -1,0 +1,136 @@
+﻿@using System.Configuration
+@using ecommerce.Models
+@model ThanhVien
+@{
+    ViewBag.Title = "GetDataPaypal";
+    Layout = "~/Views/Layout/ProductLayout.cshtml";
+}
+<div class="alert-success">@ViewBag.TT</div>
+@using (Html.BeginForm("Paypal", "GioHang"))
+{
+    if (Session["TaiKhoan"] == null || Session["TaiKhoan"] == "")
+    {
+        @*Thiet ke form lu thong tin khach hang doi voi khach hang vang lai (chua co tai khoan)*@
+
+        <table align="center" class="table">
+            <tr>
+                <td align="center" colspan="2">Thông tin khách hàng</td>
+            </tr>
+            <tr>
+                <td>Họ tên</td>
+                <td>
+                    @Html.TextBox("TenKH")
+                    <p style="color:red" id="TB_TenKH"></p>
+                </td>
+            </tr>
+            <tr>
+                <td>Địa Chỉ</td>
+                <td>
+                    @Html.TextArea("DiaChi")
+                    <p style="color:red" id="TB_DiaChi"></p>
+                </td>
+            </tr>
+            <tr>
+                <td>Email</td>
+                <td>
+                    @Html.TextBox("Email")
+                    <p id="TB_Email" style="color:red"></p>
+                </td>
+            </tr>
+            <tr>
+                <td>Điện Thoại</td>
+                <td>
+                    @Html.TextBox("SoDienThoai")
+                    <p id="TB_SDT" style="color:red"></p>
+                </td>
+            </tr>
+
+
+        </table>
+
+
+        <div class="divDatHang" style="text-align:right">
+            <input type="submit" value="Xác Nhận" class="btn btn-danger" id="btnDatHang" />
+        </div>
+
+        <script type="text/javascript">
+            $("#btnDatHang").click(function () {
+                var loi = 0;
+
+                if ($("#DiaChi").val() == "") {
+                    $("#TB_DiaChi").text("Tên khách hàng không được bỏ trống");
+                    loi++;
+                }
+                else {
+                    $("#TB_DiaChi").text("");
+                }
+                if ($("#TenKH").val() == "") {
+                    $("#TB_TenKH").text("Tên khách hàng không được bỏ trống");
+                    loi++;
+                }
+                else {
+                    $("#TB_TenKH").text("");
+                }
+
+                dinhdang = /^[0-9A-Za-z]+[0-9A-Za-z_]*@@[\w\d.]+\.\w{2,4}$/;
+                KTemail = dinhdang.test($("#Email").val());
+                if (!KTemail) {
+                    $('#TB_Email').text("Email không hợp lệ !");
+                    loi++;
+                }
+                dinhdang = /^\(?([0-9]{3})\)?[-. ]?([0-9]{3})[-. ]?([0-9]{4})$/;
+                KTSDT = dinhdang.test($("#SoDienThoai").val());
+                if (!KTSDT) {
+                    $('#TB_SDT').text("Số Điện Thoại không hợp lệ !");
+                    loi++;
+                }
+                if (loi != 0) {
+                    return false;
+                }
+            });
+        </script>
+    }
+    else
+    {
+        ThanhVien tv = (ThanhVien)Session["TaiKhoan"];
+        <table align="center" class="table">
+            <tr>
+                <td align="center" colspan="2">Thông tin khách hàng</td>
+            </tr>
+            <tr>
+                <td>Họ tên</td>
+                <td>
+                    @tv.HoTen
+                </td>
+            </tr>
+            <tr>
+                <td>Địa Chỉ</td>
+                <td>
+                    @tv.DiaChi
+                    <p style="color:red" id="TB_DiaChi"></p>
+                </td>
+            </tr>
+            <tr>
+                <td>Email</td>
+                <td>
+                    @tv.Email
+                    <p id="TB_Email" style="color:red"></p>
+                </td>
+            </tr>
+            <tr>
+                <td>Điện Thoại</td>
+                <td>
+                    @tv.SoDienThoai
+                    <p id="TB_SDT" style="color:red"></p>
+                </td>
+            </tr>
+
+
+        </table>
+        <div class="divDatHang" style="text-align:right">
+            <input type="submit" value="Xác Nhận" class="btn btn-danger" id="btnDatHang" />
+
+        </div>
+
+    }
+}

@@ -1,0 +1,95 @@
+﻿@using ecommerce.Models;
+@model SanPham
+@{
+    ViewBag.Title = "XemChiTiet";
+    Layout = "~/Views/Layout/ProductLayout.cshtml";
+}
+@section metasocials{
+    <meta property="og:url" content="https://newstore.somee.com/SanPham/XemChiTiet/@Model.MaSP" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="@Model.TenSP" />
+    <meta property="og:description" content="Giá: @Model.DonGia.Value.ToString("#,##") Mô Tả:@Model.MoTa" />
+    <meta property="og:image" content="https://newstore.somee.com/Content/img-sp/SanPham/@Model.HinhAnh" />
+}
+<div id="fb-root"></div>
+<script>
+    (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook - jssdk'));</script>
+
+<div class="col-md-9 product-price1">
+    <div class="col-md-5 single-top">
+        <div class="flexslider">
+            <ul class="slides">
+                <li data-thumb="@Url.Content("~/Content/img-sp/SanPham/"+Model.HinhAnh)">
+                    <img src="@Url.Content("~/Content/img-sp/SanPham/"+Model.HinhAnh)" />
+                </li>
+                <li data-thumb="@Url.Content("~/Content/img-sp/SanPham/"+Model.HinhAnh)">
+                    <img src="@Url.Content("~/Content/img-sp/SanPham/"+Model.HinhAnh)" />
+                </li>
+                <li data-thumb="@Url.Content("~/Content/img-sp/SanPham/"+Model.HinhAnh)">
+                    <img src="@Url.Content("~/Content/img-sp/SanPham/"+Model.HinhAnh)" />
+                </li>
+            </ul>
+        </div>
+        <!-- FlexSlider -->
+        <script defer src="~/Content/js/jquery.flexslider.js"></script>
+        <link rel="stylesheet" href="~/Content/css/flexslider.css" type="text/css" media="screen" />
+
+        <script>
+            // Can also be used with $(document).ready()
+            $(window).load(function () {
+                $('.flexslider').flexslider({
+                    animation: "slide",
+                    controlNav: "thumbnails"
+                });
+            });
+        </script>
+    </div>
+    <div class="col-md-7 single-top-in simpleCart_shelfItem">
+        <div class="single-para ">
+            <h4>@Model.TenSP</h4>
+            <div class="star-on">
+                <ul class="star-footer">
+                    <li><a href="#"><i> </i></a></li>
+                    <li><a href="#"><i> </i></a></li>
+                    <li><a href="#"><i> </i></a></li>
+                    <li><a href="#"><i> </i></a></li>
+                    <li><a href="#"><i> </i></a></li>
+                </ul>
+                <div class="review">
+                    <a href="#"> Lượt Mua: @Model.SoLanMua </a>
+                </div>
+                <div class="clearfix"> </div>
+            </div>
+
+            <h5 class="item_price">@Model.DonGia.Value.ToString("#,##") VNĐ</h5>
+            <p>
+                @Html.Raw(Model.CauHinh)
+            </p>
+
+
+            <a href="@Url.Action("ThemGioHang","GioHang", new {@MaSP=Model.MaSP,@strURL=Request.Url.ToString()  })" class="add-cart item_add">Thêm Vào Giỏ Hàng</a>
+
+        </div>
+    </div>
+    <!-- Load Facebook SDK for JavaScript -->
+    <!-- Your share button code -->
+    <div class="fb-share-button" data-href="https://newstore.somee.com/SanPham/XemChiTiet/@Model.MaSP" data-layout="button_count">
+
+    </div>
+    <div class="clearfix"> </div>
+    <br />
+    <br />
+    <h1 style="font-weight:bold; font-size:20px;">Thông Tin Sản Phẩm</h1>
+    <div class="clearfix"></div>
+    @Html.Raw(Model.MoTa)
+    <!---->
+
+
+
+</div>

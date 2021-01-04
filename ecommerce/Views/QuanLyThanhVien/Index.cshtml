@@ -1,0 +1,58 @@
+﻿@using ecommerce.Models
+@model IEnumerable<ThanhVien>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Layout/AdminLayout.cshtml";
+    WebGrid grid = new WebGrid(source: Model, rowsPerPage: 20);
+}
+
+@grid.GetHtml(
+    tableStyle: "divTable",
+    headerStyle: "gridHead",
+    footerStyle: "gridFooter",
+    rowStyle: "gridRow",
+    alternatingRowStyle: "gridAltRow",
+    columns: grid.Columns(
+    grid.Column("MaTV", "Mã Thành Viên"),
+    grid.Column("HoTen", "Họ Và Tên"),
+    grid.Column("Email", "Email"),
+    grid.Column("DiaChi", "Địa Chỉ"),
+    grid.Column("SoDienThoai", "Số Điện Thoại"),
+    grid.Column(format: p => Html.ActionLink("Thêm Vào MailChimp", "AddSubscribe", new {id=p.MaTV}))
+    ))
+<style>
+    .divTable {
+        width: 100%;
+        border: 1px solid #999999;
+    }
+
+        .divTable td {
+            border: 1px solid #999999;
+        }
+
+    .gridHead {
+        background-color: Green;
+    }
+
+        .gridHead > th > a {
+            color: #fff;
+        }
+
+    .gridFooter {
+        font-weight: bold;
+    }
+    /*.gridRow{
+        color:#fff;
+        background-color:blueviolet;
+    }
+    .gridAltRow {
+        color: #fff;
+        background-color: darkorange;
+    }*/
+    .FooterAdmin {
+        display: none;
+    }
+</style>
+
+
+

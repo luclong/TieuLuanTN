@@ -1,0 +1,138 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-BS724VLP9R');
+    </script>
+    <link rel="canonical" href="https://newstore.somee.com/">
+    <link href="~/Content/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="~/Content/js/jquery.min.js"></script>
+    <!-- Custom Theme files -->
+    <!--theme-style-->
+    <link href="~/Content/css/style.css" rel="stylesheet" type="text/css" media="all" />
+    <!--//theme-style-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="HTML, CSS, JavaScript,ASP.NET,AJAX" />
+    <meta name="description" content="New Store For phone,table,laptop iphone samsung xiaomi oppo acer dell asus order">
+    @RenderSection("metasocials", required: false)
+    <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+    <title>New Store - by Phong Nguyễn</title>
+    <!--fonts-->
+    <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700,900' rel='stylesheet' type='text/css'><!--//fonts-->
+    <!-- start menu -->
+    <link href="~/Content/css/memenu.css" rel="stylesheet" type="text/css" media="all" />
+    <script type="text/javascript" src="~/Content/js/memenu.js"></script>
+    <script>$(document).ready(function () { $(".memenu").memenu(); });</script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-BS724VLP9R"></script>
+
+
+    <script src="~/Content/js/main.js"></script>
+    <script src="~/Content/js/simpleCart.min.js"></script>
+</head>
+<body>
+    <!--header-->
+    <div class="header">
+        @Html.Partial("~/Views/Layout/HeaderTopPartial.cshtml")
+
+
+        <div class="container">
+            <div class="head-top">
+                <div class="logo">
+                    <a href="index.html"><img src="~/Content/images/logo.png" alt=""></a>
+                </div>
+                @Html.Action("MenuPartial", "Home")
+
+
+                <div class="clearfix"> </div>
+            </div>
+        </div>
+
+    </div>
+
+
+    <!--content-->
+    <!---->
+    <div class="product">
+        <div class="container">
+
+            @RenderBody()
+
+
+            <div class="clearfix"> </div>
+        </div>
+    </div>
+    <!-- Load Facebook SDK for JavaScript -->
+    <div id="fb-root"></div>
+    <script>
+        window.fbAsyncInit = function () {
+            FB.init({
+                xfbml: true,
+                version: 'v9.0'
+            });
+        };
+
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = 'https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js';
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>
+
+    <!-- Your Chat Plugin code -->
+    <div class="fb-customerchat"
+         attribution=setup_tool
+         page_id="106042258005171"
+         theme_color="#ff7e29"
+         logged_in_greeting="Xin Chào! Chúng Tôi Có Thể Giúp Gì Cho Bạn?"
+         logged_out_greeting="Xin Chào! Chúng Tôi Có Thể Giúp Gì Cho Bạn?">
+    </div>
+    <script src="//code.tidio.co/isr15zbz4fxst8asbs7mgk11be3pjhez.js" async></script>
+    <!--//content-->
+    <div class="footer">
+        <div class="container">
+            <div class="footer-top-at">
+
+                <div class="col-md-4 amet-sed">
+                    <h4>Thông tin thêm</h4>
+                    <ul class="nav-bottom">
+                        <li><a href="#">Làm thế nào đặt hàng</a></li>
+                        <li><a href="#">Các ngày hội Sale trong Năm</a></li>
+                        <li><a href="#">Thành viên được ưa đãi gì?</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4 amet-sed ">
+                    <h4>Chúng Tôi</h4>
+
+                    <p>
+                        thanhphong300899@gmail.com
+                    </p>
+                    <p>http://linkedin.com/in/phongnt30</p>
+                    <p><a href="tel:093-376-8512">0933768512</a></p>
+                    <ul class="social">
+                        <li><a href="#"><i> </i></a></li>
+                        <li><a href="#"><i class="twitter"> </i></a></li>
+                        <li><a href="#"><i class="rss"> </i></a></li>
+                        <li><a href="#"><i class="gmail"> </i></a></li>
+
+                    </ul>
+                </div>
+
+                <div class="clearfix"> </div>
+            </div>
+        </div>
+
+        <div class="footer-class">
+            <p>© 2020 New store | Design by  <a href="http://fb.com/phongnt3099" target="_blank">Phong Nguyễn</a> </p>
+        </div>
+    </div>
+</body>
+</html>
